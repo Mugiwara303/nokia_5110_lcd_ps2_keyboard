@@ -5,6 +5,7 @@ download the Libraries included
 
 pinout :
 
+
 nokia 5110 lcd 
 
 vcc 3.3v
@@ -18,6 +19,7 @@ vcc 3.3v
 //      CS   - Pin 11
 
 //      RST  - Pin 12
+
 
 PS/2 keyboard
 
